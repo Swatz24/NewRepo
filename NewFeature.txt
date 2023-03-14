@@ -1,0 +1,1 @@
+Pull is a way of requesting a file
